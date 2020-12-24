@@ -660,7 +660,7 @@ header a.logo img {
 
 @media(max-width: 600px){
     .slider-image img {
-        top: -90px;
+        top: -70px;
         width: 80%;
         height: 500px;
         position: relative;
