@@ -658,6 +658,15 @@ header a.logo img {
     position: relative;
 }
 
+@media(max-width: 600px){
+    .slider-image img {
+        top: -90px;
+        width: 80%;
+        height: 500px;
+        position: relative;
+    }
+}
+
 .slider-text {
     background-color: #ffffff;;
     color: #2b3033;
